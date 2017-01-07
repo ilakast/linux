@@ -1,0 +1,1 @@
+tlmgr info --only-installed > tlmgr.installed
